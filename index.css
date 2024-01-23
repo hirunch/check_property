@@ -1,0 +1,59 @@
+body {
+
+  background-color: bisque;
+  margin: auto;
+  font-family: Arial;
+  margin-top:5%;
+  margin-bottom:5%;
+
+}
+
+h1 {
+  text-align: center;
+  color:rgb(98, 93, 86)
+}
+
+#sche {
+
+  width: 50%;
+  height: 70%;
+  font-size: 1.2em;
+  background-color: rgb(203, 205, 237);
+  padding: 1%;
+  margin: auto;
+  border-radius: 5vh;
+  
+
+
+}
+
+#sub {
+ 
+  width: 20%;
+  height: 3em;
+  border:none;
+  border-radius: 5vh;
+  background-color: rgb(198, 185, 217);
+  transition: background-color 0.5;
+  cursor: pointer;
+}
+
+#sub:hover {
+  background-color: rgb(150, 116, 202);
+}
+
+#sub:active {
+  background-color: rgb(108, 41, 208);
+}
+
+
+p {
+  background-color: blanchedalmond;
+  padding: 2%;
+  border-radius: 4em;
+  margin-top:5%;
+  font-weight: bold;
+  margin-left:1%;
+  color: rgb(71, 65, 59);
+}
+
